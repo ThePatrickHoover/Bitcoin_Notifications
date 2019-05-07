@@ -1,8 +1,8 @@
 # How to Set-Up:
 
 PC:  
- 1. Download and install [Python](https://www.python.org/downloads/) on your computer.  
- 2. Download script.  
+ + Download and install [Python](https://www.python.org/downloads/) on your computer.  
+ + Download script.   
  Mobile Device:  
  1. [Create a new applet.](https://ifttt.com/create)
  1. Click "this".
