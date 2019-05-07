@@ -2,8 +2,9 @@
 
 PC:  
  + Download and install [Python](https://www.python.org/downloads/) on your computer.  
- + Download script.   
- Mobile Device:  
+ + Download script.  
+
+Mobile Device:  
  1. [Create a new applet.](https://ifttt.com/create)
  1. Click "this".
  1. Select "Webhooks".
