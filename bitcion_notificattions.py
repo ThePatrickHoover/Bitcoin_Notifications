@@ -47,11 +47,11 @@ def main():
         if price >= bitcoin_threshold:
             post_ifttt_webhook('bitcoin_price_emergency', price, key)
 
-        if len(bitcoin_history) == 2:
+        if len(bitcoin_history) == 6:
             post_ifttt_webhook('bitcoin_price_update', format_bitcoin_history(bitcoin_history), key)
             bitcoin_history = []
 
-        time.sleep(1*5)
+        time.sleep(5*60)
 
 
 
