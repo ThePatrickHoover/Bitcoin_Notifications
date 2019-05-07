@@ -1,8 +1,8 @@
 # How to Set-Up:
 
 PC:
- ..* download and install [python](https://www.python.org/downloads/) on your computer
- ..* download
+ ⋅⋅* Download and install [Python](https://www.python.org/downloads/) on your computer.
+ ⋅⋅* Download script.
  Mobile Device:
  1. [Create a new applet.](https://ifttt.com/create)
  1. Click "this".
@@ -13,5 +13,5 @@ PC:
  1. Click "that".
  1. Select "Telegram".
  1. Click the box labeled "Send Message" (*you may have to set up telegram and link IFTTT on your phone*).
- 1. Set the Message text to 'Latest Bitcoin price: <br>{{Value1}}'.
- 1. Complete. Run the script with Key.txt in the same folder 
+ 1. Set the Message text to `'Latest Bitcoin price: <br>{{Value1}}'.`
+ 1. Complete. Run the script with Key.txt in the same folder
